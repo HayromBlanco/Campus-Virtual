@@ -5,9 +5,8 @@ using System.Web;
 
 namespace Campus_Virtual.Models
 {
-    public class Student
-    {
-        public int StudentID { get; set; }
-
-    }
+	public class Teacher
+	{
+        int idTeacher { get; set; }
+	}
 }
